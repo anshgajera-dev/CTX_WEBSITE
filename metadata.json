@@ -1,0 +1,6 @@
+{
+  "name": "CTX – Git for Context",
+  "description": "Open-source CLI that extracts structured codebase context (APIs, schemas, envs) and serves it to AI coding tools via MCP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
